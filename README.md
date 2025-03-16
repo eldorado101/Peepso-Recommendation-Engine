@@ -66,12 +66,7 @@ Alternatively, you can create a custom page template (`page-member-preferences.p
 
 ### For Administrators
 1. Go to **Settings > Member Preferences** in the WordPress admin dashboard.
-2. Click **Export Member Preferences** to download a CSV file containing all user preferences.
-
----
-
-## File Structure
-The plugin includes the following files and directories:
+2. Click **Export Member Preferences** to download a CSV file containing all users
 
 
 ---
