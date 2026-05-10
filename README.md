@@ -1,4 +1,4 @@
-PeepSo Recommendation Engine
+[google0c106ba29df1b004.html](https://github.com/user-attachments/files/27571840/google0c106ba29df1b004.html)PeepSo Recommendation Engine
 Developed by Dwight Bedsaul
 ## Description
 The **PeepSo Recommendation Engine** is a WordPress plugin designed to recommend posts to users based on their activity and preferences. It allows users to set preferences for various content categories (e.g., technology, lifestyle, sports) via sliders. These preferences are stored in a custom database table and can be exported as a CSV file for further analysis or reporting.
@@ -147,6 +147,9 @@ For support or feature requests, please contact the plugin author:
 
 ## License
 This plugin is released under the **GNU General Public License v2 or later**. You are free to use, modify, and distribute this plugin as long as you comply with the terms of the license.
+
+[Uploading googoogle-site-verification: google0c106ba29df1b004.htmlgle0c106ba29df1b004.html…]()
+
 
 ---
 
