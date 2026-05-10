@@ -1,3 +1,6 @@
+<meta name="google-site-verification" content="9jzRqpaytfzXAkvAresB-qzjRvMmvbfvLDZKyMEvqMg" />
+
+
 [google0c106ba29df1b004.html](https://github.com/user-attachments/files/27571840/google0c106ba29df1b004.html)PeepSo Recommendation Engine
 Developed by Dwight Bedsaul
 ## Description
@@ -148,7 +151,6 @@ For support or feature requests, please contact the plugin author:
 ## License
 This plugin is released under the **GNU General Public License v2 or later**. You are free to use, modify, and distribute this plugin as long as you comply with the terms of the license.
 
-[Uploading googoogle-site-verification: google0c106ba29df1b004.htmlgle0c106ba29df1b004.html…]()
 
 
 ---
