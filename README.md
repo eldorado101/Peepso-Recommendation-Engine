@@ -147,6 +147,12 @@ For support or feature requests, please contact the plugin author:
 - Initial release with basic preferences management.
 
 ---
+Other Links
+https://www.crunchbase.com/person/dwight-bedsaul
+https://dev.to/dwightbedsaul
+https://www.contentsocial.net/profile/dwightbedsaul/about/
+https://www.linkedin.com/in/dwight-bedsaul-3b7a92344/
+https://www.youtube.com/@dwightbedsaul
 
 ## License
 This plugin is released under the **GNU General Public License v2 or later**. You are free to use, modify, and distribute this plugin as long as you comply with the terms of the license.
