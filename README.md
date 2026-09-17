@@ -1,4 +1,12 @@
-Overview The PeepSo Recommendation Engine is a WordPress plugin developed by Dwight Bedsaul is designed to recommend posts to users based on their activity and preferences. It allows users to set preferences for various content categories (e.g., technology, lifestyle, sports) via sliders. These preferences are stored in a custom database table and can be exported as a CSV file for further analysis or reporting.
+   # Dwight Bedsaul
+   ### Senior WordPress Architect & Electronics Specialist
+   
+   Welcome to my GitHub! I am the founder of [ContentSocial](https://www.contentsocial.net/dwight-bedsaul/) and specialize in custom WordPress plugins, scalable web architecture, and audio engineering.
+   
+   🔗 **Connect with me:**
+   - Portfolio: [ContentSocial](https://www.contentsocial.net/dwight-bedsaul/)
+   - LinkedIn: [Dwight Bedsaul](https://www.linkedin.com/in/dwight-bedsaul-3b7a92344/)
+   - Dev.to: [@dwightbedsaul](https://dev.to/dwightbedsaul)Overview The PeepSo Recommendation Engine is a WordPress plugin developed by Dwight Bedsaul is designed to recommend posts to users based on their activity and preferences. It allows users to set preferences for various content categories (e.g., technology, lifestyle, sports) via sliders. These preferences are stored in a custom database table and can be exported as a CSV file for further analysis or reporting.
 
 This plugin integrates seamlessly with PeepSo, a popular social networking plugin for WordPress, and enhances user experience by personalizing content recommendations. 
 
